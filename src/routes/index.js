@@ -15,6 +15,7 @@ export default function Routes(){
           headerShown: false
         }}
       />
+      
 
       <Stack.Screen
         name="Cart"
